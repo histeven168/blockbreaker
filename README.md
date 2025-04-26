@@ -1,4 +1,4 @@
-# blockbreaker online
+# blockbreaker game
 **BlockBreaker.onl** is the ultimate online **Block Breaker game** where you can relive the classic brick-breaking experience anytime, anywhere. Smash colorful bricks, bounce the ball with precision, and clear levels in this addictive arcade-style challenge. With smooth controls, retro-inspired visuals, and endless fun, **BlockBreaker.onl** brings the excitement of Google's iconic block breaker game straight to your browser—no downloads required!  
 
 Whether you're looking for a quick gaming break or a nostalgic arcade session, **BlockBreaker.onl** offers fast-paced action and progressively challenging levels. Test your reflexes, aim for the high score, and enjoy the timeless thrill of breaking blocks! 🎮💥 **Play now for free!**
