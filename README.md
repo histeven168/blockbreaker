@@ -17,11 +17,11 @@ git clone git@github.com:histeven168/blockbreaker.git
 ### 2. Install dependencies
 
 ```bash
-cd dino-game && yarn
+cd blockbreaker && yarn
 #or
-cd dino-game && npm install
+cd blockbreaker && npm install
 #or
-cd dino-game && pnpm install
+cd blockbreaker && pnpm install
 ```
 
 ### 3. copy .env.example and rename it to .env.local
